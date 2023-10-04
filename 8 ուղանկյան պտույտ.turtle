@@ -1,0 +1,10 @@
+kturtle-script-v1.0
+@(reset)
+@(repeat) 8{
+@(repeat) 2{
+@(fw) 150
+@(tr) 90 
+@(fw) 100
+@(tr) 90
+@(fw) 100}
+@(tr) 4}
